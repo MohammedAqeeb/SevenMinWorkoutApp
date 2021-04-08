@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <dimen name="ll_padding">5dp</dimen>
+    <dimen name="image_layout_height">220dp</dimen>
+    <dimen name="start_button_size">150dp</dimen>
+    <dimen name="start_button_marginTop">20dp</dimen>
+    <dimen name="start_button_textSize">22sp</dimen>
+
+
+
+
+
+
+
+
+
+
+</resources>
